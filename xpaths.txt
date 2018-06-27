@@ -1,0 +1,5 @@
+Datum: $x('//div[@class="speiseplan_date"]')
+
+Theke: $x('//div[@class="speiseplancounter"]')
+Gericht: $x('//div[@class="speiseplanname"]')
+
