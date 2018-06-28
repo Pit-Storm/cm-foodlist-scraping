@@ -1,0 +1,8 @@
+Introduction to Web-Scraping:
+https://medium.com/the-andela-way/introduction-to-web-scraping-using-selenium-7ec377a8cf72
+
+XPATH Cheatsheet:
+https://devhints.io/xpath
+
+Stuwerk Speiseplan:
+https://www.studierendenwerk-mainz.de/essentrinken/speiseplan/
